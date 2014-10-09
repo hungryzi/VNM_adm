@@ -1,65 +1,65 @@
-"PID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","NL_NAME_2","VARNAME_2","TYPE_2","ENGTYPE_2"
-41403,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",1,"Ð<U+1ED3>ng Tháp","","Dong Thap","T<U+1EC9>nh","Province"
-41404,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",2,"An Giang","","An Giang","T<U+1EC9>nh","Province"
-41405,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",3,"B<U+1EA1>c Liêu","","Bac Lieu","T<U+1EC9>nh","Province"
-41406,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",4,"B<U+1EBF>n Tre","","Ben Tre","T<U+1EC9>nh","Province"
-41407,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",5,"C<U+1EA7>n Tho","","Can Tho","Thành ph<U+1ED1> tr<U+1EF1>c thu<U+1ED9>c t<U+1EC9>nh","City|Municipality|Thanh Pho"
-41408,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",6,"Cà Mau","","Ca Mau","T<U+1EC9>nh","Province"
-41409,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",7,"H<U+1EAD>u Giang","","Hau Giang","T<U+1EC9>nh","Province"
-41410,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",8,"Kiên Giang","","Kien Giang","T<U+1EC9>nh","Province"
-41411,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",9,"Long An","","Long An","T<U+1EC9>nh","Province"
-41412,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",10,"Sóc Trang","","Soc Trang","T<U+1EC9>nh","Province"
-41413,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",11,"Ti<U+1EC1>n Giang","","Tien Giang","T<U+1EC9>nh","Province"
-41414,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",12,"Trà Vinh","","Tra Vinh","T<U+1EC9>nh","Province"
-41415,247,"VNM","Vietnam",1,"d<U+1ED3>ng b<U+1EB1>ng sông C<U+1EED>u Long",13,"Vinh Long","","Vinh Long","T<U+1EC9>nh","Province"
-41416,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",14,"B<U+1EAF>c Ninh","","Bac Ninh","T<U+1EC9>nh","Province"
-41417,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",15,"H<U+1EA3>i Duong","","Hai Duong","T<U+1EC9>nh","Province"
-41418,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",16,"H<U+1EA3>i Phòng","","Hai Phong City|Haiphong","Thành ph<U+1ED1> tr<U+1EF1>c thu<U+1ED9>c t<U+1EC9>nh","City|Municipality|Thanh Pho"
-41419,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",17,"Hung Yên","","Hung Yen","T<U+1EC9>nh","Province"
-41420,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",18,"Hà N<U+1ED9>i","","Ha Noi City|Hanoi","Thành ph<U+1ED1> tr<U+1EF1>c thu<U+1ED9>c t<U+1EC9>nh","City|Municipality|Thanh Pho"
-41421,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",19,"Hà Nam","","Ha Nam","T<U+1EC9>nh","Province"
-41422,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",20,"Hà Tây","","Ha Tay","T<U+1EC9>nh","Province"
-41423,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",21,"Nam Ð<U+1ECB>nh","","Nam Dinh","T<U+1EC9>nh","Province"
-41424,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",22,"Ninh Bình","","Ninh Binh","T<U+1EC9>nh","Province"
-41425,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",23,"Thái Bình","","Thai Binh","T<U+1EC9>nh","Province"
-41426,247,"VNM","Vietnam",2,"Ð<U+1ED3>ng B<U+1EB1>ng Sông H<U+1ED3>ng",24,"Vinh Phúc","","Vinh Phuc","T<U+1EC9>nh","Province"
-41427,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",25,"B<U+1EAF>c Giang","","Bac Giang","T<U+1EC9>nh","Province"
-41428,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",26,"B<U+1EAF>c K<U+1EA1>n","","Bac Kan|Bac Can","T<U+1EC9>nh","Province"
-41429,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",27,"Cao B<U+1EB1>ng","","Cao Bang","T<U+1EC9>nh","Province"
-41430,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",28,"Hà Giang","","Ha Giang","T<U+1EC9>nh","Province"
-41431,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",29,"L<U+1EA1>ng Son","","Lang Son","T<U+1EC9>nh","Province"
-41432,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",30,"Lào Cai","","Lao Cai","T<U+1EC9>nh","Province"
-41433,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",31,"Phú Th<U+1ECD>","","Phu Tho","T<U+1EC9>nh","Province"
-41434,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",32,"Qu<U+1EA3>ng Ninh","","Quang Ninh","T<U+1EC9>nh","Province"
-41435,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",33,"Thái Nguyên","","Thai Nguyen","T<U+1EC9>nh","Province"
-41436,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",34,"Tuyên Quang","","Tuyen Quang","T<U+1EC9>nh","Province"
-41437,247,"VNM","Vietnam",3,"Ðông B<U+1EAF>c",35,"Yên Bái","","Yen Bai","T<U+1EC9>nh","Province"
-41438,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",36,"Ð<U+1ED3>ng Nai","","Dong Nai","T<U+1EC9>nh","Province"
-41439,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",37,"Bà R<U+1ECB>a - Vung Tàu","","Ba Ria - VTau|Ba Ria-Vung Tau","T<U+1EC9>nh","Province"
-41440,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",38,"Bình Duong","","Binh Duong","T<U+1EC9>nh","Province"
-41441,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",39,"Bình Phu<U+1EDB>c","","Binh Phuoc","T<U+1EC9>nh","Province"
-41442,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",40,"Bình Thu<U+1EAD>n","","Binh Thuan","T<U+1EC9>nh","Province"
-41443,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",41,"H<U+1ED3> Chí Minh city","","Ho Chi Minh City|Ho Chi Minh","Thành ph<U+1ED1> tr<U+1EF1>c thu<U+1ED9>c t<U+1EC9>nh","City|Municipality|Thanh Pho"
-41444,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",42,"Ninh Thu<U+1EAD>n","","Ninh Thuan","T<U+1EC9>nh","Province"
-41445,247,"VNM","Vietnam",4,"Ðông Nam B<U+1ED9>",43,"Tây Ninh","","Tay Ninh","T<U+1EC9>nh","Province"
-41446,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",44,"Hà Tinh","","Ha Tinh","T<U+1EC9>nh","Province"
-41447,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",45,"Ngh<U+1EC7> An","","Nghe An","T<U+1EC9>nh","Province"
-41448,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",46,"Qu<U+1EA3>ng Bình","","Quang Binh","T<U+1EC9>nh","Province"
-41449,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",47,"Qu<U+1EA3>ng Tr<U+1ECB>","","Quang Tri","T<U+1EC9>nh","Province"
-41450,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",48,"Th<U+1EEB>a Thiên - Hu<U+1EBF>","","Thua Thien - Hue","T<U+1EC9>nh","Province"
-41451,247,"VNM","Vietnam",5,"B<U+1EAF>c Trung B<U+1ED9>",49,"Thanh Hóa","","Thanh Hoa","T<U+1EC9>nh","Province"
-41452,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",50,"Ðà N<U+1EB5>ng","","Da Nang City|Da Nang","Thành ph<U+1ED1> tr<U+1EF1>c thu<U+1ED9>c t<U+1EC9>nh","City|Municipality|Thanh Pho"
-41453,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",51,"Bình Ð<U+1ECB>nh","","Binh Dinh","T<U+1EC9>nh","Province"
-41454,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",52,"Khánh Hòa","","Khanh Hoa","T<U+1EC9>nh","Province"
-41455,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",53,"Phú Yên","","Phu Yen","T<U+1EC9>nh","Province"
-41456,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",54,"Qu<U+1EA3>ng Nam","","Quang Nam","T<U+1EC9>nh","Province"
-41457,247,"VNM","Vietnam",6,"Nam Trung B<U+1ED9>",55,"Qu<U+1EA3>ng Ngãi","","Quang Ngai","T<U+1EC9>nh","Province"
-41458,247,"VNM","Vietnam",7,"Tây B<U+1EAF>c",56,"Ði<U+1EC7>n Biên","","Dien Bien","T<U+1EC9>nh","Province"
-41459,247,"VNM","Vietnam",7,"Tây B<U+1EAF>c",57,"Hòa Bình","","Hoa Binh","T<U+1EC9>nh","Province"
-41460,247,"VNM","Vietnam",7,"Tây B<U+1EAF>c",58,"Lai Châu","","Lai Chau","T<U+1EC9>nh","Province"
-41461,247,"VNM","Vietnam",7,"Tây B<U+1EAF>c",59,"Son La","","Son La","T<U+1EC9>nh","Province"
-41462,247,"VNM","Vietnam",8,"Tây Nguyên",60,"Ð<U+1EAF>k L<U+1EAF>k","","Dak Lak|Dac Lac","T<U+1EC9>nh","Province"
-41463,247,"VNM","Vietnam",8,"Tây Nguyên",61,"Ðak Nông","","Dac Nong","T<U+1EC9>nh","Province"
-41464,247,"VNM","Vietnam",8,"Tây Nguyên",62,"Gia Lai","","Gia Lai","T<U+1EC9>nh","Province"
-41465,247,"VNM","Vietnam",8,"Tây Nguyên",63,"Kon Tum","","Kon Tum","T<U+1EC9>nh","Province"
-41466,247,"VNM","Vietnam",8,"Tây Nguyên",64,"Lâm Ð<U+1ED3>ng","","Lam Dong","T<U+1EC9>nh","Province"
+PID,ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,NL_NAME_2,VARNAME_2,TYPE_2,ENGTYPE_2
+41403,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,1,Đồng Tháp,,Dong Thap,Tỉnh,Province
+41404,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,2,An Giang,,An Giang,Tỉnh,Province
+41405,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,3,Bạc Liêu,,Bac Lieu,Tỉnh,Province
+41406,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,4,Bến Tre,,Ben Tre,Tỉnh,Province
+41407,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,5,Cần Thơ,,Can Tho,Thành phố trực thuộc tỉnh,City|Municipality
+41408,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,6,Cà Mau,,Ca Mau,Tỉnh,Province
+41409,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,7,Hậu Giang,,Hau Giang,Tỉnh,Province
+41410,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,8,Kiên Giang,,Kien Giang,Tỉnh,Province
+41411,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,9,Long An,,Long An,Tỉnh,Province
+41412,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,10,Sóc Trăng,,Soc Trang,Tỉnh,Province
+41413,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,11,Tiền Giang,,Tien Giang,Tỉnh,Province
+41414,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,12,Trà Vinh,,Tra Vinh,Tỉnh,Province
+41415,247,VNM,Vietnam,1,Đồng Bằng Sông Cửu Long,13,Vĩnh Long,,Vinh Long,Tỉnh,Province
+41416,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,14,Bắc Ninh,,Bac Ninh,Tỉnh,Province
+41417,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,15,Hải Dương,,Hai Duong,Tỉnh,Province
+41418,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,16,Hải Phòng,,Hai Phong City|Haiphong,Thành phố trực thuộc tỉnh,City|Municipality
+41419,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,17,Hưng Yên,,Hung Yen,Tỉnh,Province
+41420,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,18,Hà Nội,,Ha Noi City|Hanoi,Thành phố trực thuộc tỉnh,City|Municipality
+41421,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,19,Hà Nam,,Ha Nam,Tỉnh,Province
+41422,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,20,Hà Tây,,Ha Tay,Tỉnh,Province
+41423,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,21,Nam Định,,Nam Dinh,Tỉnh,Province
+41424,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,22,Ninh Bình,,Ninh Binh,Tỉnh,Province
+41425,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,23,Thái Bình,,Thai Binh,Tỉnh,Province
+41426,247,VNM,Vietnam,2,Đồng Bằng Sông Hồng,24,Vĩnh Phúc,,Vinh Phuc,Tỉnh,Province
+41427,247,VNM,Vietnam,3,Đông Bắc,25,Bắc Giang,,Bac Giang,Tỉnh,Province
+41428,247,VNM,Vietnam,3,Đông Bắc,26,Bắc Kạn,,Bac Kan|Bac Can,Tỉnh,Province
+41429,247,VNM,Vietnam,3,Đông Bắc,27,Cao Bằng,,Cao Bang,Tỉnh,Province
+41430,247,VNM,Vietnam,3,Đông Bắc,28,Hà Giang,,Ha Giang,Tỉnh,Province
+41431,247,VNM,Vietnam,3,Đông Bắc,29,Lạng Sơn,,Lang Son,Tỉnh,Province
+41432,247,VNM,Vietnam,3,Đông Bắc,30,Lào Cai,,Lao Cai,Tỉnh,Province
+41433,247,VNM,Vietnam,3,Đông Bắc,31,Phú Thọ,,Phu Tho,Tỉnh,Province
+41434,247,VNM,Vietnam,3,Đông Bắc,32,Quảng Ninh,,Quang Ninh,Tỉnh,Province
+41435,247,VNM,Vietnam,3,Đông Bắc,33,Thái Nguyên,,Thai Nguyen,Tỉnh,Province
+41436,247,VNM,Vietnam,3,Đông Bắc,34,Tuyên Quang,,Tuyen Quang,Tỉnh,Province
+41437,247,VNM,Vietnam,3,Đông Bắc,35,Yên Bái,,Yen Bai,Tỉnh,Province
+41438,247,VNM,Vietnam,4,Đông Nam Bộ,36,Đồng Nai,,Dong Nai,Tỉnh,Province
+41439,247,VNM,Vietnam,4,Đông Nam Bộ,37,Bà Rịa - Vũng Tàu,,Ba Ria - VTau|Ba Ria-Vung Tau,Tỉnh,Province
+41440,247,VNM,Vietnam,4,Đông Nam Bộ,38,Bình Dương,,Binh Duong,Tỉnh,Province
+41441,247,VNM,Vietnam,4,Đông Nam Bộ,39,Bình Phước,,Binh Phuoc,Tỉnh,Province
+41442,247,VNM,Vietnam,4,Đông Nam Bộ,40,Bình Thuận,,Binh Thuan,Tỉnh,Province
+41443,247,VNM,Vietnam,4,Đông Nam Bộ,41,Thành phố Hồ Chí Minh,,Ho Chi Minh City|Ho Chi Minh,Thành phố trực thuộc tỉnh,City|Municipality
+41444,247,VNM,Vietnam,4,Đông Nam Bộ,42,Ninh Thuận,,Ninh Thuan,Tỉnh,Province
+41445,247,VNM,Vietnam,4,Đông Nam Bộ,43,Tây Ninh,,Tay Ninh,Tỉnh,Province
+41446,247,VNM,Vietnam,5,Bắc Trung Bộ,44,Hà Tĩnh,,Ha Tinh,Tỉnh,Province
+41447,247,VNM,Vietnam,5,Bắc Trung Bộ,45,Nghệ An,,Nghe An,Tỉnh,Province
+41448,247,VNM,Vietnam,5,Bắc Trung Bộ,46,Quảng Bình,,Quang Binh,Tỉnh,Province
+41449,247,VNM,Vietnam,5,Bắc Trung Bộ,47,Quảng Trị,,Quang Tri,Tỉnh,Province
+41450,247,VNM,Vietnam,5,Bắc Trung Bộ,48,Thừa Thiên - Huế,,Thua Thien - Hue,Tỉnh,Province
+41451,247,VNM,Vietnam,5,Bắc Trung Bộ,49,Thanh Hoá,,Thanh Hoa,Tỉnh,Province
+41452,247,VNM,Vietnam,6,Nam Trung Bộ,50,Đà Nẵng,,Da Nang City|Da Nang,Thành phố trực thuộc tỉnh,City|Municipality
+41453,247,VNM,Vietnam,6,Nam Trung Bộ,51,Bình Định,,Binh Dinh,Tỉnh,Province
+41454,247,VNM,Vietnam,6,Nam Trung Bộ,52,Khánh Hoà,,Khanh Hoa,Tỉnh,Province
+41455,247,VNM,Vietnam,6,Nam Trung Bộ,53,Phú Yên,,Phu Yen,Tỉnh,Province
+41456,247,VNM,Vietnam,6,Nam Trung Bộ,54,Quảng Nam,,Quang Nam,Tỉnh,Province
+41457,247,VNM,Vietnam,6,Nam Trung Bộ,55,Quảng Ngãi,,Quang Ngai,Tỉnh,Province
+41458,247,VNM,Vietnam,7,Tây Bắc,56,Điện Biên,,Dien Bien,Tỉnh,Province
+41459,247,VNM,Vietnam,7,Tây Bắc,57,Hoà Bình,,Hoa Binh,Tỉnh,Province
+41460,247,VNM,Vietnam,7,Tây Bắc,58,Lai Châu,,Lai Chau,Tỉnh,Province
+41461,247,VNM,Vietnam,7,Tây Bắc,59,Sơn La,,Son La,Tỉnh,Province
+41462,247,VNM,Vietnam,8,Tây Nguyên,60,Đắk Lắk,,Dak Lak|Dac Lac,Tỉnh,Province
+41463,247,VNM,Vietnam,8,Tây Nguyên,61,Đắk Nông,,Dac Nong,Tỉnh,Province
+41464,247,VNM,Vietnam,8,Tây Nguyên,62,Gia Lai,,Gia Lai,Tỉnh,Province
+41465,247,VNM,Vietnam,8,Tây Nguyên,63,Kon Tum,,Kon Tum,Tỉnh,Province
+41466,247,VNM,Vietnam,8,Tây Nguyên,64,Lâm Đồng,,Lam Dong,Tỉnh,Province
